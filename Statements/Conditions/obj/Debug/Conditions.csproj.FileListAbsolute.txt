@@ -1,0 +1,6 @@
+C:\Users\eduar\Work\Cenfotec\Medtronic\C-Sharp-Statements\Statements\Conditions\bin\Debug\Conditions.exe.config
+C:\Users\eduar\Work\Cenfotec\Medtronic\C-Sharp-Statements\Statements\Conditions\bin\Debug\Conditions.exe
+C:\Users\eduar\Work\Cenfotec\Medtronic\C-Sharp-Statements\Statements\Conditions\bin\Debug\Conditions.pdb
+C:\Users\eduar\Work\Cenfotec\Medtronic\C-Sharp-Statements\Statements\Conditions\obj\Debug\Conditions.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Work\Cenfotec\Medtronic\C-Sharp-Statements\Statements\Conditions\obj\Debug\Conditions.exe
+C:\Users\eduar\Work\Cenfotec\Medtronic\C-Sharp-Statements\Statements\Conditions\obj\Debug\Conditions.pdb
